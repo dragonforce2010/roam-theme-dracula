@@ -3,6 +3,7 @@ import './dracula.css'
 
 
 function onload() {
+  document.body.className = 'dracula'
 }
 
 function onunload() {
